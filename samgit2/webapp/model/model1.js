@@ -1,7 +1,7 @@
 {
 	"LOGINS" [{
 		"UserName": "RamyaSree",
-		"Password": "ramya"
+		"Password": "ramyaSree"
 	}, {
 		"UserName": "Abdul",
 		"Password": "abdul123"
